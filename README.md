@@ -6,6 +6,6 @@
 
     [Ejad website](http://itichildren.savvy.live)
 
-- Original Reop (bitbucket)
+- Original Repository (bitbucket)
     
     [Bitbucket Project Link](https://bitbucket.org/savvygitt/iti_children)
